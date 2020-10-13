@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/keefertaylor/TezosKitRestructure/TezosKitProj/TezosKit/Examples/TezosKitExample.playground">
+      location = "container:Examples/TezosKitExample.playground">
    </FileRef>
    <FileRef
       location = "container:TezosKit.xcodeproj">
