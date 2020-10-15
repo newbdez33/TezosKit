@@ -64,3 +64,5 @@ screenshots
 # Playgrounds
 timeline.xctimeline
 playground.xcworkspace
+/.swiftpm
+/Package.resolved
