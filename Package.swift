@@ -33,6 +33,7 @@ let package = Package(
             from: "2.1.14"
         ),
         .package(
+            name: "secp256k1",
             url: "https://github.com/keefertaylor/secp256k1.swift",
             from: "8.0.6"
         ),
